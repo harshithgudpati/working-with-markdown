@@ -89,6 +89,5 @@ Denise Case
 dcase@nwmissouri.edu
 
 ## Forking
-what i learn this was that
-
+Beautiful image
 ![Image](https://s3.amazonaws.com/ceblog/wp-content/uploads/2012/02/find-royalty-free-images-not-overused.jpg)
